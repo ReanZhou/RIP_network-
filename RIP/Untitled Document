@@ -1,0 +1,1 @@
+python3 test.py config_1.txt& gnome-terminal -e "python3 test.py config_2.txt"& gnome-terminal -e "python3 test.py config_3.txt"& gnome-terminal -e "python3 test.py config_4.txt"& gnome-terminal -e "python3 test.py config_5.txt"& gnome-terminal -e "python3 test.py config_6.txt"& gnome-terminal -e "python3 test.py config_7.txt"
